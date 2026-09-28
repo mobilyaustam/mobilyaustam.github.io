@@ -35,7 +35,7 @@ footer{border-top:1px solid #eee; padding:1.25rem 0; color:var(--muted)}
 .pro-item img{width:80px; height:80px; border-radius:50%; flex:0 0 auto}
 .pro-content{display:flex; flex-direction:column; gap:.35rem; min-width:0}
 .pro-header{display:flex; align-items:baseline; gap:.6rem; flex-wrap:wrap}
-.pro-header h3{margin:.1rem 0; font-size:1.15rem}
+.pro-header h2{margin:.1rem 0; font-size:1.15rem}
 .xp{font-size:.9rem; color:var(--muted)}
 .pro-desc{color:#222}
 .badges{display:flex; gap:.4rem; flex-wrap:wrap}
