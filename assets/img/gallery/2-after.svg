@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="240" y="160" width="320" height="200" fill="#111827" rx="8"/>
+  <rect x="260" y="380" width="280" height="8" fill="#e5e7eb"/>
+  <text x="50%" y="90%" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="28" fill="#0f172a">After: TV mounted • cables hidden</text>
+</svg>
+

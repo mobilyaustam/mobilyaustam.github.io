@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobilyaustam.github.io/sitemap.xml

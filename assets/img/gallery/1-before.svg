@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f1f5f9"/><stop offset="1" stop-color="#e2e8f0"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect x="120" y="200" width="560" height="200" fill="#cbd5e1" rx="8"/>
+  <text x="50%" y="90%" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="28" fill="#334155">Before: Flat‑pack wardrobe (unassembled)</text>
+</svg>
+
