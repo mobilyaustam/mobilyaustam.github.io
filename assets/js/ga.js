@@ -1,6 +1,6 @@
 // Google Analytics 4 loader and simple event wiring
 (function(){
-  var MID = 'G-6X99EN7B6V';
+  var MID = 'G-FMZFYTMPS2';
   window.dataLayer = window.dataLayer || [];
   function gtag(){ dataLayer.push(arguments); }
   window.gtag = window.gtag || gtag;
@@ -36,18 +36,4 @@
       });
     } catch(e) {}
   }, { capture: true });
-
-  // Auto-track contact form submits (forms whose name includes 'contact')
-  document.addEventListener('submit', function(ev){
-    var f = ev.target || ev.srcElement;
-    if (!f) return;
-    var name = (f.getAttribute('name') || '').toLowerCase();
-    if (!name || name.indexOf('contact') === -1) return;
-    try {
-      gtag('event','contact_form_submit',{
-        form: name,
-        page: location.pathname
-      });
-    } catch(e) {}
-  }, true);
 })();
