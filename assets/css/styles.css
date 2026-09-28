@@ -54,7 +54,7 @@ footer{border-top:1px solid #eee; padding:1.25rem 0; color:var(--muted)}
 .video-thumb .play{position:absolute; inset:auto 0 0 0; background:linear-gradient(transparent,rgba(0,0,0,.55)); color:#fff; padding:.5rem .75rem; font-weight:600}
 
 /* Gallery categories */
-.cat-nav{display:flex; gap:.5rem; flex-wrap:wrap; margin:.5rem 0 1rem}
+.cat-nav{display:flex; gap:.5rem; flex-wrap:wrap; justify-content:flex-start; padding:0; margin:.5rem 0 1rem}
 .cat-nav a{display:inline-block; padding:.25rem .6rem; border:1px solid #e6e6e6; border-radius:999px; text-decoration:none; color:#222}
 details.category{border:1px solid #eee; border-radius:.5rem; background:#fff; padding:.5rem .75rem}
 details.category+details.category{margin-top:1rem}
@@ -69,3 +69,11 @@ details.category summary{cursor:pointer; font-weight:600}
 .img-dialog img.dragging{cursor:grabbing}
 .img-dialog .controls{position:absolute; top:.5rem; right:.5rem; display:flex; gap:.4rem; left:auto}
 .img-dialog .controls button{background:rgba(0,0,0,.6); color:#fff; border:0; border-radius:.375rem; padding:.35rem .5rem; cursor:pointer}
+
+/* Services */
+.services .card h2{margin-bottom:.5rem}
+.services li, .steps li{margin:.4rem 0}
+.services .card{scroll-margin-top:4.5rem}
+details.faq{border-bottom:1px solid #eee; padding:.6rem 0}
+details.faq summary{cursor:pointer; font-weight:600}
+details.faq p{margin:.5rem 0 0}

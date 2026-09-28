@@ -1,0 +1,42 @@
+# Mobilya Ustam
+
+> Mobilya Ustam, Çorlu (Tekirdağ) merkezli bir mobilya montaj hizmetidir. Ev, ofis ve iş yerleri için her tür mobilyanın kurulumunu, sökümünü, taşınmasını ve taşınma sonrası yeniden kurulumunu yapar. Tüm marka ve modeller. İletişim: telefon ve WhatsApp +90 530 505 97 57.
+
+English summary: Mobilya Ustam is a furniture assembly service based in Çorlu, Tekirdağ, Turkey. It assembles, disassembles, moves and reinstalls all kinds of furniture for homes, offices and shops, for any brand (IKEA, Koçtaş, Vivense, Enza Home, Bellona, İstikbal and others). Customers book by phone or WhatsApp: +90 530 505 97 57. The website is in Turkish.
+
+## İletişim
+
+- Telefon: +90 530 505 97 57 (tel:+905305059757)
+- WhatsApp: https://wa.me/905305059757
+- Konum: Çorlu, Tekirdağ, Türkiye
+- Teklif almak için: ürünün fotoğrafını veya adını WhatsApp'tan gönderin; net fiyat önceden bildirilir. Hafta sonu ve uygun olduğunda aynı gün hizmet verilir.
+
+## Hizmetler
+
+- Yatak odası: gardırop (menteşeli, sürgülü, aynalı, köşe), yatak, baza, karyola, şifonyer, komodin, makyaj masası, komple yatak odası takımı
+- Salon ve oturma odası: TV ünitesi, vitrin, konsol, kitaplık, yemek masası ve sandalyeler, koltuk takımı ve köşe koltuk, sehpa, dresuar, portmanto, ayakkabılık
+- Genç ve çocuk odası: ranza, çatı yatak, bebek beşiği, çalışma masası, kitaplık, genç odası takımları
+- Mutfak ve banyo: hazır mutfak dolapları (alt ve üst modül), kiler ve boy dolapları, banyo dolabı, aynalı dolap, mutfak masası
+- Ofis ve iş yeri: çalışma masaları, toplantı masaları, dosya ve arşiv dolapları, ofis sandalyeleri, raf ve teşhir üniteleri
+- Duvar montajı: TV duvara asma (sabit, eğimli, hareketli askı), raf, ayna, tablo, duvar tipi ünite ve dolaplar
+- Bahçe ve balkon: masa, sandalye, oturma grubu, salıncak, şezlong
+- Söküm, taşıma ve yeniden kurulum: mobilya söküm (demontaj), taşınma sonrası kurulum, mobilya taşıma ve yer değiştirme, eski mobilya sökümü
+- Ayar ve düzeltme: kapak ve menteşe ayarı, çekmece ve ray ayarı, kulp montajı, sallanan mobilyaların sağlamlaştırılması
+
+## Hizmet bölgeleri
+
+Çorlu (merkez), Ergene (Velimeşe, Marmaracık, Ulaş), Çerkezköy, Kapaklı, Marmara Ereğlisi, Muratlı, Saray, Süleymanpaşa (Tekirdağ merkez), Lüleburgaz, Silivri (seçili bölgeler).
+
+## Sayfalar
+
+- [Ana sayfa](https://mobilyaustam.github.io/): Hizmet özeti, bölgeler ve sık sorulan sorular
+- [Hizmetler](https://mobilyaustam.github.io/hizmetler/): Tüm hizmetlerin ayrıntılı listesi, çalışma şekli ve sık sorulan sorular
+- [Hizmet Bölgeleri](https://mobilyaustam.github.io/bolgeler/): Hizmet verilen ilçe ve bölgeler
+- [Galeri](https://mobilyaustam.github.io/galeri/): Tamamlanan işlerden fotoğraflar
+- [Hakkımızda](https://mobilyaustam.github.io/hakkimizda/): 25 yıllık deneyime sahip montaj ustası Mehmet Cirit
+- [İletişim](https://mobilyaustam.github.io/iletisim/): Telefon ve WhatsApp
+
+## Optional
+
+- [Gizlilik](https://mobilyaustam.github.io/gizlilik/): Gizlilik politikası
+- [Sitemap](https://mobilyaustam.github.io/sitemap.xml)
