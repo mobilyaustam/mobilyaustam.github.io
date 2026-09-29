@@ -36,4 +36,17 @@
       });
     } catch(e) {}
   }, { capture: true });
+
+  // Auto-track quote form clicks (Google Forms)
+  document.addEventListener('click', function(ev){
+    var a = ev.target && ev.target.closest ? ev.target.closest('a[href*="forms.gle"], a[href*="docs.google.com/forms"]') : null;
+    if (!a) return;
+    try {
+      gtag('event','form_click',{
+        href: a.getAttribute('href') || '',
+        text: (a.textContent || '').trim(),
+        page: location.pathname
+      });
+    } catch(e) {}
+  }, { capture: true });
 })();
