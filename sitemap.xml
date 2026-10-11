@@ -1,31 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mobilyaustam.github.io/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hizmetler/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/hizmetler/dolap-kurulumu/</loc>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/hizmetler/yatak-odasi-kurulumu/</loc>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/hizmetler/yemek-odasi-kurulumu/</loc>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/hizmetler/masa-kurulumu/</loc>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/corlu/</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/bolgeler/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hakkimizda/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/galeri/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/iletisim/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/gizlilik/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url>
 </urlset>
