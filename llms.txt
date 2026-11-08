@@ -39,6 +39,11 @@ English summary: Mobilya Ustam is a furniture assembly service based in Çorlu, 
 - [Çorlu Mobilya Ustası](https://mobilyaustam.github.io/corlu/): Çorlu'nun 26 mahallesindeki hizmet kapsamı
 - [Hizmet Bölgeleri](https://mobilyaustam.github.io/bolgeler/): Hizmet verilen ilçe ve bölgeler
 - [Galeri](https://mobilyaustam.github.io/galeri/): Tamamlanan işlerden fotoğraflar
+- [Parlak Beyaz Aynalı Gardırop Kurulumu](https://mobilyaustam.github.io/galeri/parlak-beyaz-aynali-gardirop-kurulumu/): Tamamlanan iş ve adım adım kurulum anlatımı
+- [L Tipi Köşe Gardırop Kurulumu](https://mobilyaustam.github.io/galeri/kose-gardirop-kurulumu/): Tamamlanan iş ve adım adım kurulum anlatımı
+- [5 Kapaklı Aynalı Gardırop Kurulumu](https://mobilyaustam.github.io/galeri/5-kapakli-aynali-gardirop-kurulumu/): Tamamlanan iş ve adım adım kurulum anlatımı
+- [Aynalı Makyaj Masası Kurulumu](https://mobilyaustam.github.io/galeri/aynali-makyaj-masasi-kurulumu/): Tamamlanan iş ve adım adım kurulum anlatımı
+- [Çalışma Masalı Genç Odası Gardırop Kurulumu](https://mobilyaustam.github.io/galeri/calisma-masali-genc-odasi-gardirop-kurulumu/): Tamamlanan iş ve adım adım kurulum anlatımı
 - [Hakkımızda](https://mobilyaustam.github.io/hakkimizda/): 25 yıllık deneyime sahip montaj ustası Mehmet Cirit
 - [İletişim](https://mobilyaustam.github.io/iletisim/): Telefon ve WhatsApp
 

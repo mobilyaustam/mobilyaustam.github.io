@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://mobilyaustam.github.io/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hizmetler/</loc>
@@ -10,19 +10,19 @@
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hizmetler/dolap-kurulumu/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hizmetler/yatak-odasi-kurulumu/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hizmetler/yemek-odasi-kurulumu/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hizmetler/masa-kurulumu/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/corlu/</loc>
@@ -34,11 +34,42 @@
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/hakkimizda/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/desk-and-wardrobe.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/galeri/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe_mirror.jpg</image:loc></image:image>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/desk-and-wardrobe.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/galeri/parlak-beyaz-aynali-gardirop-kurulumu/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe1.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/galeri/kose-gardirop-kurulumu/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe2.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/galeri/5-kapakli-aynali-gardirop-kurulumu/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe3.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/galeri/aynali-makyaj-masasi-kurulumu/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/wardrobe_mirror.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://mobilyaustam.github.io/galeri/calisma-masali-genc-odasi-gardirop-kurulumu/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <image:image><image:loc>https://mobilyaustam.github.io/assets/works/org/desk-and-wardrobe.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://mobilyaustam.github.io/iletisim/</loc>
