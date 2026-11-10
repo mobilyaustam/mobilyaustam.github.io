@@ -1,6 +1,6 @@
 /* Lightweight, system-font, responsive base */
 :root{
-  --bg:#ffffff; --fg:#111; --muted:#555; --brand:#0a7; --brand-ink:#064;
+  --bg:#ffffff; --fg:#111; --muted:#555; --brand:#0061c5; --brand-ink:#004a99;
   --max: 64rem; --gap: 1rem;
 }
 *{box-sizing:border-box}
@@ -11,7 +11,9 @@ a{color:var(--brand)} a:hover{color:var(--brand-ink)}
 header{border-bottom:1px solid #eee; position:sticky; top:0; background:#fff; z-index:10}
 nav{display:flex; gap:1rem; align-items:center; justify-content:space-between; padding:0.75rem 0}
 nav .links{display:flex; gap:0.75rem; flex-wrap:wrap}
-.logo{font-weight:700; letter-spacing:.2px}
+.logo{display:inline-flex; align-items:center; gap:.55rem; font-weight:700; letter-spacing:.2px; color:var(--brand-ink); text-decoration:none}
+.logo img{display:block; width:80px; height:40px}
+@media(max-width:640px){nav{flex-wrap:wrap; gap:.5rem}nav .links{width:100%; gap:.35rem .9rem}}
 main{padding:2rem 0}
 .hero{display:grid; gap:1rem}
 .hero h1{font-size:clamp(1.75rem,3.5vw,2.5rem); margin:.25rem 0}
@@ -88,7 +90,7 @@ details.faq p{margin:.5rem 0 0}
 .steps{padding-left:1.35rem}
 .steps li{padding-left:.25rem; margin:.55rem 0}
 .prose{max-width:52rem}
-.final-cta{margin-top:1rem; padding:1.25rem; border:1px solid #dfe9e5; border-radius:.5rem; background:#f7fbf9}
+.final-cta{margin-top:1rem; padding:1.25rem; border:1px solid #d6e3f5; border-radius:.5rem; background:#f4f8fd}
 .area-list{display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:.35rem 1.5rem; padding:0; list-style:none}
 .area-list li{padding:.35rem 0; border-bottom:1px solid #eee; scroll-margin-top:5rem}
 .footer-grid{display:flex; justify-content:space-between; gap:2rem; flex-wrap:wrap}
